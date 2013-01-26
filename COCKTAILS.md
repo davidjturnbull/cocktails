@@ -22,6 +22,7 @@ Rocks Glass
 - 25ml Italian Sweet Vermouth
 - 25ml Campari
 - 50ml Soda
+
 Lemon Zest and orange slice
 
 
@@ -33,18 +34,22 @@ _Shake hard and fine strain_
 Cocktail glass
 - 50ml Calvados
 - 50ml Sweet Vermouth
+
 Apple fan
 
 
 
 
-Aviation
+**Aviation**
 
-Shake hard, fine strain
-50ml London dry gin
-25ml Lemon juice
-15ml Maraschino Liqueur
-10ml Crème de Violette
+_Shake hard, fine strain_
+
+Cocktail Glass
+- 50ml London dry gin
+- 25ml Lemon juice
+- 15ml Maraschino Liqueur
+- 10ml Crème de Violette
+
 Lemon Zest
 
 
