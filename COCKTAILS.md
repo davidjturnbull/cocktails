@@ -14,21 +14,23 @@ Lemon slice and raspberry				<= Garnish
 
 
 
-Americano
+**Americano**
 
-Pour over glass into ice
-25ml Italian Sweet Vermouth
-25ml Campari
-50ml Soda
+_Pour over glass into ice_
+Rocks Glass
+- 25ml Italian Sweet Vermouth
+- 25ml Campari
+- 50ml Soda
 Lemon Zest and orange slice
 
 
 
-Apple Blossom Cocktail      
+**Apple Blossom Cocktail**      
 
-Shake hard and fine strain
-50ml Calvados
-50ml Sweet Vermouth
+_Shake hard and fine strain_
+Cocktail glass
+- 50ml Calvados
+- 50ml Sweet Vermouth
 Apple fan
 
 
