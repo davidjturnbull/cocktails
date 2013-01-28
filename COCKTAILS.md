@@ -1,18 +1,21 @@
-The Cocktails
+# The Cocktails
 
-Example
+## Example
 
-Bramble									<= Drink Name
+**Bramble**		<= Drink Name
 
-Build in glass, drizzle Crème de Mure  	<= Mix Method
-40ml London Dry Gin 					<= Ingredients
-25ml Lemon juice
-10ml Gomme
-15ml Crème de Mure
+_Build in glass, drizzle Crème de Mure_  	<= Mix Method
+
+Rocks Glass
+- 40ml London Dry Gin 					<= Ingredients
+- 25ml Lemon juice
+- 10ml Gomme
+- 15ml Crème de Mure
+
 Lemon slice and raspberry				<= Garnish	
 
 
-
+-----------------
 
 **Americano**
 
@@ -54,64 +57,81 @@ Lemon Zest
 
 
 
-Bacardi Cocktail
+**Bacardi Cocktail**
 
-Shake hard and fine strain
-50ml Bacardi rum
-25ml Lime juice
-10ml Grenadine
+_Shake hard and fine strain_
+
+Cocktail Glass
+- 50ml Bacardi rum
+- 25ml Lime juice
+- 10ml Grenadine
+
 None
 
 
 
-Bellini
+**Bellini**
 
-Build in glass
-50ml white peach puree
-Top with Prosecco
+_Build in glass_
+
+Sparkling Wine Glass
+- 50ml white peach puree
+- Top with Prosecco
+
 None
 
 
 
 
-Between the sheets      
+**Between the sheets**     
 Created 1930s by Harry MacElhone, Harry’s New York Bar, Paris.
-Shake hard and fine strain
-25ml White Rum
-25ml Cognac
-25ml Cointreau
-5ml Gomme
+
+_Shake hard and fine strain_
+
+Cocktail Glass
+- 25ml White Rum
+- 25ml Cognac
+- 25ml Cointreau
+- 5ml Gomme
+
 Lemon twist
 
 
 
 
-Black Russian
+**Black Russian**
 
-Build in glass
-50ml Vodka
-25ml coffee liqueur
+_Build in glass_
+
+Rocks Glass
+- 50ml Vodka
+- 25ml coffee liqueur
 
 
 
 
-Black Velvet
+**Black Velvet**
 
-Pour slowly and stir
-100ml Guiness stout
-Top with Champagne
+_Pour slowly and stir_
+
+Sparkling Wine Glass
+- 100ml Guiness stout
+- Top with Champagne
+
 None
 
 
 
 
-Blood and Sand
+**Blood and Sand**
 
-Shake and fine strain
-20ml Scotch whisky
-20ml Cherry Brandy
-20ml Sweet Vermouth
-20ml Orange Juice
+_Shake and fine strain_
+
+Cocktail Glass
+- 20ml Scotch whisky
+- 20ml Cherry Brandy
+- 20ml Sweet Vermouth
+- 20ml Orange Juice
 Orange Zest
 
 
