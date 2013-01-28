@@ -1,12 +1,12 @@
 # The Cocktails
 
-## Example
+### Example
 
 **Bramble**		<= Drink Name
 
-_Build in glass, drizzle Crème de Mure_  	<= Mix Method
+Rocks Glass    						<= Glass Type
 
-Rocks Glass
+_Build in glass, drizzle Crème de Mure_  	<= Mix Method
 - 40ml London Dry Gin 					<= Ingredients
 - 25ml Lemon juice
 - 10ml Gomme
@@ -19,9 +19,9 @@ Lemon slice and raspberry				<= Garnish
 
 **Americano**
 
-_Pour over glass into ice_
-
 Rocks Glass
+
+_Pour over glass into ice_
 - 25ml Italian Sweet Vermouth
 - 25ml Campari
 - 50ml Soda
@@ -33,9 +33,9 @@ Lemon Zest and orange slice
 
 **Apple Blossom Cocktail**      
 
-_Shake hard and fine strain_
-
 Cocktail glass
+
+_Shake hard and fine strain_
 - 50ml Calvados
 - 50ml Sweet Vermouth
 
@@ -46,9 +46,9 @@ Apple fan
 
 **Aviation**
 
-_Shake hard, fine strain_
-
 Cocktail Glass
+
+_Shake hard, fine strain_
 - 50ml London dry gin
 - 25ml Lemon juice
 - 15ml Maraschino Liqueur
@@ -61,9 +61,9 @@ Lemon Zest
 
 **Bacardi Cocktail**
 
-_Shake hard and fine strain_
-
 Cocktail Glass
+
+_Shake hard and fine strain_
 - 50ml Bacardi rum
 - 25ml Lime juice
 - 10ml Grenadine
@@ -75,9 +75,9 @@ None
 
 **Bellini**
 
-_Build in glass_
-
 Sparkling Wine Glass
+
+_Build in glass_
 - 50ml white peach puree
 - Top with Prosecco
 
@@ -89,9 +89,9 @@ None
 **Between the sheets**     
 Created 1930s by Harry MacElhone, Harry’s New York Bar, Paris.
 
-_Shake hard and fine strain_
-
 Cocktail Glass
+
+_Shake hard and fine strain_
 - 25ml White Rum
 - 25ml Cognac
 - 25ml Cointreau
@@ -104,9 +104,9 @@ Lemon twist
 
 **Black Russian**
 
-_Build in glass_
-
 Rocks Glass
+
+_Build in glass_
 - 50ml Vodka
 - 25ml coffee liqueur
 
@@ -115,9 +115,9 @@ Rocks Glass
 
 **Black Velvet**
 
-_Pour slowly and stir_
-
 Sparkling Wine Glass
+
+_Pour slowly and stir_
 - 100ml Guiness stout
 - Top with Champagne
 
@@ -128,9 +128,9 @@ None
 
 **Blood and Sand**
 
-_Shake and fine strain_
-
 Cocktail Glass
+
+_Shake and fine strain_
 - 20ml Scotch whisky
 - 20ml Cherry Brandy
 - 20ml Sweet Vermouth
