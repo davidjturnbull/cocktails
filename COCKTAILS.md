@@ -141,182 +141,235 @@ Orange Zest
 
 -----------------
 
-Bloody Mary
+**Bloody Mary**
+
 Red Snapper – replace vodka with gin
 Bloody Caesar – replace tomato juice with Clomato juice
-Roll ingredients, strain into glass
-50ml Vodka
-20ml Lemon Juice
-Black Pepper
-Celery Salt
-Tabasco (to taste)
-Worcestershire sauce (to taste)
-Tomato juice
+
+Collins Glass
+
+_Roll ingredients, strain into glass_
+- 50ml Vodka
+- 20ml Lemon Juice
+- Black Pepper
+- Celery Salt
+- Tabasco (to taste)
+- Worcestershire sauce (to taste)
+- Tomato juice
+
 Salt/Pepper rim, celery stick
 
 
+-----------------
 
+**Blue Moon**
 
-Blue Moon
+Cocktail Glass
 
-Shake and fine strain
-50ml dry Gin
-25ml fresh Lemon juice
-20ml Creme Yvette or Creme de Violette
-Optional 10ml egg white
+_Shake and fine strain_
+- 50ml dry Gin
+- 25ml fresh Lemon juice
+- 20ml Creme Yvette or Creme de Violette
+- Optional 10ml egg white
+
 Raspberry
 
 
+-----------------
 
+**Boulevard**      
 
-Boulevard      
+Cocktail Glass
 
-Stir in mixing glass
-75ml Rye Whiskey
-30ml Dry Vermouth
-15ml Grand Marnier
-2 dashes Orange Bitters
+_Stir in mixing glass_
+- 75ml Rye Whiskey
+- 30ml Dry Vermouth
+- 15ml Grand Marnier
+- 2 dashes Orange Bitters
+
 Orange twist & cherry
 
 
+-----------------
 
-Bobby Burns      
+**Bobby Burns**
 
-Shake hard and fine strain
-50ml Scotch Whisky
-25ml Sweet Vermouth
-10ml Benedictine D.O.M
+Cocktail Glass      
+
+_Shake hard and fine strain_
+- 50ml Scotch Whisky
+- 25ml Sweet Vermouth
+- 10ml Benedictine D.O.M
+
 Lemon Twist
 
 
+-----------------
 
+**Bramble**
 
-Bramble
+Rocks Glass
 
-Build in glass, drizzle Crème de Mure
-40ml London Dry Gin
-25ml Lemon juice
-10ml Gomme
-15ml Crème de Mure
+_Build in glass, drizzle Crème de Mure_
+- 40ml London Dry Gin
+- 25ml Lemon juice
+- 10ml Gomme
+- 15ml Crème de Mure
+
 Lemon slice and raspberry
 
 
+-----------------
 
-Brandy Alexander
+**Brandy Alexander**
 
-Shake hard and fine strain
-25ml Brandy
-25ml Creme de Cacao
-25ml Cream
+Cocktail Glass
+
+_Shake hard and fine strain_
+- 25ml Brandy
+- 25ml Creme de Cacao
+- 25ml Cream
+
 Grated nutmeg
 
 
+-----------------
 
+**Brandy Flip**      
 
-Brandy Flip      
+Collins Glass
 
-Shake hard and fine strain
-50ml Brandy
-20ml Sugar syrup
-10ml Cream
-Whole egg
+_Shake hard and fine strain_
+- 50ml Brandy
+- 20ml Sugar syrup
+- 10ml Cream
+- Whole egg
+
 Grated nutmeg
 
 
+-----------------
 
+**Breakfast Martini**      
 
-Breakfast Martini      
+Cocktail Glass
 
-Stir in mixing glass
-50ml Gin
-12.5ml Triple Sec liqueur
-12.5ml Lemon juice
-1 spoon Orange Marmalade
+_Stir in mixing glass_
+- 50ml Gin
+- 12.5ml Triple Sec liqueur
+- 12.5ml Lemon juice
+- 1 spoon Orange Marmalade
+
 Orange twist
 
 
+-----------------
 
+**Bronx**
 
-Bronx      
 Created 1906 by Johnny Solon, Waldolf-Astoria, NY.
-2 dash Angostura bitters for an Income Tax Cocktail
-Shake hard and fine strain
-50ml Dry Gin
-25ml Dry Vermouth
-25ml Sweet Vermouth
-30ml Orange juice
+
+Cocktail Glass
+
+_Shake hard and fine strain_
+- 50ml Dry Gin
+- 25ml Dry Vermouth
+- 25ml Sweet Vermouth
+- 30ml Orange juice
+- 2 dash Angostura bitters for an Income Tax Cocktail
+
 Orange twist
 
 
+-----------------
 
+**Brooklyn**      
 
-Brooklyn      
+Cocktail Glass
 
-Stir in mixing glass
-75ml Bourbon
-10ml Maraschino liqueur
-15ml Dry Vermouth
-15ml Sweet Vermouth
-3 dash Angostura Bitters
+_Stir in mixing glass_
+- 75ml Bourbon
+- 10ml Maraschino liqueur
+- 15ml Dry Vermouth
+- 15ml Sweet Vermouth
+- 3 dash Angostura Bitters
+
 Maraschino cherry
 
 
+-----------------
 
+**Caipirinha**
 
-Caipirinha
+Rocks Glass
 
-Muddle in glass. Fill with crushed ice
-50ml Cachaca
-4 Lime wedges
-15ml sugar syrup OR
-Heaped bar spoon sugar
+_Muddle in glass. Fill with crushed ice_
+- 50ml Cachaca (use Vodka for Caipiroska)
+- 4 Lime wedges
+- 15ml sugar syrup OR
+- Heaped bar spoon sugar
+
 Lime wedge
 
 
+-----------------
 
+**Cape Codder**
 
-Cape Codder
+Collins Glass
 
-Build in glass
-50ml Vodka
-10ml fresh Lime juice
-Top with cranberry juice
+_Build in glass_
+- 50ml Vodka
+- 10ml fresh Lime juice
+- Top with cranberry juice
+
 Lime wedge
 
 
+-----------------
 
+**Champagne Cocktail**
 
-Champagne Cocktail
+Sparklong Wine Glass
 
-Build in glass
-Sugar cube soaked with Angostura bitters
-25ml Cognac
-Top with Champagne
+_Build in glass_
+- Sugar cube soaked with Angostura bitters
+- 25ml Cognac
+- Top with Champagne
+
 Orange zest
 
 
+-----------------
 
-Clover Club
+**Clover Club**
 
-Dry shake, wet shake, fine strain
-50ml dry Gin
-25ml Lemon juice
-10ml Raspberry syrup
-10ml Egg white
+Cocktail Glass
+
+_Dry shake, wet shake, fine strain_
+- 50ml dry Gin
+- 25ml Lemon juice
+- 10ml Raspberry syrup
+- 10ml Egg white
+
+None
 
 
+-----------------
 
+**Cobbler**      
 
-Cobbler      
+Collins Glass
 
-Shake hard and strain over crushed ice
-40ml Brandy
-25ml Sugar syrup
-70ml Red wine
+_Shake hard and strain over crushed ice_
+- 40ml Brandy
+- 25ml Sugar syrup
+- 70ml Red wine
+
 Mint sprig
 
 
-
+-----------------
 
 Corpse Reviver #2
 
@@ -329,7 +382,7 @@ Shake hard and fine strain
 Lemon zest
 
 
-
+-----------------
 
 Cosmopolitan
 Replace vodka with tequila for a Rude Cosmo
@@ -342,7 +395,7 @@ Dash Orange bitters
 Flamed Orange zest
 
 
-
+-----------------
 
 Crusta      
 
@@ -354,6 +407,7 @@ Shake hard and strain
 Crusted caster sugar rim and fruit band in top of glass
 
 
+-----------------
 
 Cuba Libra
 Variation: Fidel Castro – replace Cola with Ginger Ale
@@ -364,6 +418,7 @@ Top with Coca Cola
 Lime wedge
 
 
+-----------------
 
 Daiquiri
 
@@ -373,7 +428,7 @@ Shake hard and fine strain
 15ml Sugar Syrup
 
 
-
+-----------------
 
 Daisy
 
@@ -384,6 +439,7 @@ Shake first ingredients, top with soda
 Lime wedge
 
 
+-----------------
 
 Dark n Stormy
 
@@ -394,6 +450,7 @@ Top with Ginger beer
 Lime wedge
 
 
+-----------------
 
 Diplomat      
 
@@ -405,6 +462,7 @@ Stir in mixing glass
 Orange Twist
 
 
+-----------------
 
 East India      
 
@@ -417,6 +475,7 @@ Shake hard and fine strain
 Orange Twist
 
 
+-----------------
 
 El Diablo
 
@@ -428,7 +487,7 @@ Top with Ginger beer
 Lime wedge
 
 
-
+-----------------
 
 El Floridita no.1
 
@@ -439,8 +498,7 @@ Shake hard and fine strain
 10ml Maraschino liqueur
 
 
-
-
+-----------------
 
 El Presidente 
 
@@ -452,6 +510,7 @@ Shake hard and fine strain
 Lime wedge
 
 
+-----------------
 
 Espresso Martini
 
@@ -462,7 +521,7 @@ Shake hard and fine strain
 3 coffee beans
 
 
-
+-----------------
 
 Fish House Punch      
 “There's a little place just out of town,  
@@ -480,7 +539,7 @@ Top Soda
 Grated nutmeg and lemon slice
 
 
-
+-----------------
 
 Fix      
 
@@ -492,7 +551,7 @@ Shake hard and strain
 Use fruit from recipe
 
 
-
+-----------------
 
 French 75
 Substitute gin with vodka for French 76
@@ -505,6 +564,7 @@ Top with Sparkling wine
 Lemon zest
 
 
+-----------------
 
 French Connection
 
@@ -513,7 +573,7 @@ Build in glass
 35ml Amaretto liqueur
 
 
-
+-----------------
 
 French Martini
 
@@ -523,7 +583,7 @@ Shake hard and fine strain
 40ml Pineapple juice
 
 
-
+-----------------
 
 Gimlet
 
@@ -533,7 +593,7 @@ Stir in mixing glass
 Lime wedge
 
 
-
+-----------------
 
 Gin Cockail
 
@@ -545,6 +605,7 @@ Stir in mixing glass
 Lemon Zest
 
 
+-----------------
 
 Gin Rickey
 
@@ -555,6 +616,7 @@ Top with soda
 Lime wedge
 
 
+-----------------
 
 Godfather
 Substitute whisky with vodka for Godmother
@@ -564,7 +626,7 @@ Build in glass
 35ml Scotch whisky
 
 
-
+-----------------
 
 Grasshopper
 
@@ -575,7 +637,7 @@ Shake hard and fine strain
 Shaved Chocolate
 
 
-
+-----------------
 
 Hanky-Panky Martini
 Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel.
@@ -587,7 +649,7 @@ Stir in mixing glass
 Orange twist
 
 
-
+-----------------
 
 Harvard      
 
@@ -599,7 +661,7 @@ Top soda
 Lemon twist
 
 
-
+-----------------
 
 Harvey Wallbanger
 
@@ -610,6 +672,7 @@ Top with Orange juice
 Orange Slice
 
 
+-----------------
 
 Hurricane
 
@@ -624,6 +687,7 @@ Shake hard and strain
 Lime wedge and cherry
 
 
+-----------------
 
 Japanese Slipper
 
@@ -634,7 +698,7 @@ Shake hard and fine strain
 Melon slice
 
 
-
+-----------------
 
 June Bug
 
@@ -648,6 +712,7 @@ Shake hard and strain
 Lime wedge
 
 
+-----------------
 
 Kamikaze
 
@@ -658,6 +723,7 @@ Shake hard and fine strain
 Lime wedge
 
 
+-----------------
 
 Kir Royale
 
@@ -666,7 +732,7 @@ Build in glass
 Top with Champagne
 
 
-
+-----------------
 
 The Last Word
 
@@ -678,6 +744,7 @@ Shake hard and fine strain
 Lime wedge
 
 
+-----------------
 
 Lemon Drop
 
@@ -688,7 +755,7 @@ Shake hard and fine strain
 Lemon twist
 
 
-
+-----------------
 
 Long Island Iced Tea
 
@@ -703,6 +770,7 @@ Top Coca Cola
 Lemon Wedge
 
 
+-----------------
 
 Lynchburg Lemonade
 
@@ -714,7 +782,7 @@ Top Lemonade
 Lemon wedge
 
 
-
+-----------------
 
 Mai Tai
 Created 1944 by Trader Vic
@@ -727,10 +795,7 @@ Shake hard and strain over crushed ice
 Lime wedge and cherry
 
 
-
-
-Or
-
+-----------------
 
 Manhattan
 Variation: Rob Roy – use Scotch whisky
@@ -746,7 +811,7 @@ Dry: Lemon twist
 Perfect: Orange twist
 
 
-Or
+-----------------
 
 Margarita
 
@@ -757,6 +822,7 @@ Shake hard and fine strain
 Lime wedge
 
 
+-----------------
 
 Martini (Dry)
 Dry=Less vermouth, Wet= More vermouth
@@ -769,7 +835,7 @@ Stir in mixing glass and strain
 Lemon twist or olive
 
 
-
+-----------------
 
 Mary Pickford
 
@@ -780,7 +846,7 @@ Shake hard and fine strain
 5ml Grenadine syrup
 
 
-
+-----------------
 
 Mint Julep
 
@@ -792,7 +858,7 @@ Lightly muddle ingredients except Bourbon in mixing glass. Strain into glass hal
 Mint sprig
 
 
-
+-----------------
 
 Mojito
 Many bars use two bar spoons of white or brown sugar rather than sugar syrup.
@@ -805,6 +871,7 @@ Top soda water
 Lime wedge and mint sprig
 
 
+-----------------
 
 Moscow Mule
 
@@ -816,7 +883,7 @@ Optional: Dash Angustora bitters
 Lime wedge
 
 
-
+-----------------
 
 Negroni
 
@@ -827,7 +894,7 @@ Stir in mixing glass, strain
 Orange twist or orange wedge
 
 
-
+-----------------
 
 New Yorker      
 
@@ -839,6 +906,7 @@ Shake hard and fine strain
 Grated nutmeg
 
 
+-----------------
 
 Nuclear Daiquiri
 
@@ -850,6 +918,7 @@ Shake hard and strain
 Lime wedge
 
 
+-----------------
 
 Old Fashioned
 Add ingredients slowly, stiring until ice melts and then adding more ice.
@@ -861,6 +930,7 @@ Stir in glass
 Orange twist
 
 
+-----------------
 
 Painkiller
 
@@ -872,6 +942,7 @@ Shake hard and strain
 Grated nutmeg
 
 
+-----------------
 
 Paloma      
 Spanish for ‘Dove’
@@ -883,7 +954,7 @@ Top ‘Ting’ grapefruit soda
 Lime wedge, salt rim
 
 
-
+-----------------
 
 Paradise
 
@@ -894,8 +965,7 @@ Shake and fine strain
 15ml fresh Lemon juice
 
 
-
-
+-----------------
 
 Pegu Club
 
@@ -907,8 +977,7 @@ Dash Angustora bitters
 Dash Orange bitters
 
 
-
-
+-----------------
 
 Pina Colada
 
@@ -922,7 +991,7 @@ Shake and strain
 Lime wedge ad pineapple slice
 
 
-
+-----------------
 
 Rum Swizzle
 
@@ -933,7 +1002,7 @@ Fill glass with crushed ice, add ingredients, stir hard with swizzle stick
 Lime wedge and mint leaf
 
 
-
+-----------------
 
 Russian Spring Punch
 
@@ -946,7 +1015,7 @@ Top Sparkling wine
 Lemon wedge and raspberries
 
 
-
+-----------------
 
 Rusty Nail
 
@@ -956,7 +1025,7 @@ Stir in glass
 Lemon twist
 
 
-
+-----------------
 
 Sazerac
 
@@ -967,7 +1036,7 @@ Dash Paychards Bitters
 Lemon twist
 
 
-
+-----------------
 
 Screaming Orgasm
 
@@ -980,6 +1049,7 @@ Shake and strain
 Orange Slice
 
 
+-----------------
 
 Screwdriver
 
@@ -989,7 +1059,7 @@ Top with Orange juice
 Orange slice
 
 
-
+-----------------
 
 Sex on the beach
 
@@ -1001,6 +1071,7 @@ Shake and strain
 Orange slice
 
 
+-----------------
 
 Sidecar
 
@@ -1011,6 +1082,7 @@ Shake hard and strain
 ½ Sugar rim on glass (your choice)
 
 
+-----------------
 
 Screwdriver
 
@@ -1020,7 +1092,7 @@ Top with Orange juice
 Orange slice
 
 
-
+-----------------
 
 Singapore Sling
 
@@ -1034,6 +1106,7 @@ Dash Angustora bitters
 Lemon slice and cherry
 
 
+-----------------
 
 Tequila Sunrise
 
@@ -1044,7 +1117,7 @@ Build in glass
 Lime wedge or orange slice
 
 
-
+-----------------
 
 Tom Collins
 
@@ -1056,6 +1129,7 @@ Top Soda water
 Lemon slice
 
 
+-----------------
 
 Tommys Margarita
 
@@ -1066,6 +1140,7 @@ Shake and fine strain
 Lime wedge
 
 
+-----------------
 
 Treacle
 
@@ -1077,6 +1152,7 @@ Dash Angostura bitters
 Orange twist
 
 
+-----------------
 
 Twinkle
 
@@ -1087,6 +1163,7 @@ Top sparkling wine
 Lemon twist
 
 
+-----------------
 
 Vesper Martini
 
@@ -1097,10 +1174,7 @@ Shake hard and fine strain
 Lemon twist
 
 
-
-
-Or
-
+-----------------
 
 Whisk(e)y sour
 Can dry shake if using egg white for better texture/foam
@@ -1113,7 +1187,7 @@ Optional: 10ml egg white
 Orange twist
 
 
-
+-----------------
 
 White Lady
 
@@ -1125,6 +1199,7 @@ Shake hard and fine strain
 Lemon twist
 
 
+-----------------
 
 White Martini
 Recipe per Phil Wood of Roxy Bar and Screen, London
@@ -1135,7 +1210,7 @@ Shake hard and fine strain
 Finely grated chocolate
 
 
-
+-----------------
 
 White Russian
 
@@ -1146,7 +1221,7 @@ Build in glass
 3 coffee beans
 
 
-
+-----------------
 
 Zombie
 Some recipes add Overproof rum and Absinthe – try if you dare!
@@ -1162,3 +1237,4 @@ Dash Angostura bitters
 Lime wedge
 
 
+-----------------

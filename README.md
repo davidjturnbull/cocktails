@@ -2,9 +2,11 @@
 
 ## Bartender Style Recipe Specs
 
-### Update
+### Update 28 Jan 2013
 
-I've added the first main list of drinks. Still need to add each drinks 'glass type' as this was lost in the transfer.
+Currently working my way through the list of drinks adding the glass type and fixing the formatting that was lost in the inital transfer. 
+
+-------------
 
 ### Description
 
