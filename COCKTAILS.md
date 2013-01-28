@@ -42,7 +42,7 @@ Cocktail glass
 Apple fan
 
 
-
+-----------------
 
 **Aviation**
 
@@ -57,6 +57,7 @@ Cocktail Glass
 Lemon Zest
 
 
+-----------------
 
 **Bacardi Cocktail**
 
@@ -70,6 +71,7 @@ Cocktail Glass
 None
 
 
+-----------------
 
 **Bellini**
 
@@ -82,7 +84,7 @@ Sparkling Wine Glass
 None
 
 
-
+-----------------
 
 **Between the sheets**     
 Created 1930s by Harry MacElhone, Harry’s New York Bar, Paris.
@@ -98,7 +100,7 @@ Cocktail Glass
 Lemon twist
 
 
-
+-----------------
 
 **Black Russian**
 
@@ -109,7 +111,7 @@ Rocks Glass
 - 25ml coffee liqueur
 
 
-
+-----------------
 
 **Black Velvet**
 
@@ -122,7 +124,7 @@ Sparkling Wine Glass
 None
 
 
-
+-----------------
 
 **Blood and Sand**
 
@@ -133,11 +135,11 @@ Cocktail Glass
 - 20ml Cherry Brandy
 - 20ml Sweet Vermouth
 - 20ml Orange Juice
+
 Orange Zest
 
 
-
-
+-----------------
 
 Bloody Mary
 Red Snapper – replace vodka with gin
