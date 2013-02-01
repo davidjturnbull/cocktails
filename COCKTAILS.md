@@ -7,6 +7,7 @@
 Rocks Glass    						<= Glass Type
 
 _Build in glass, drizzle Crème de Mure_  	<= Mix Method
+
 - 40ml London Dry Gin 					<= Ingredients
 - 25ml Lemon juice
 - 10ml Gomme
@@ -17,11 +18,12 @@ Lemon slice and raspberry				<= Garnish
 
 -----------------
 
-**Americano**
+#### Americano
 
 Rocks Glass
 
 _Pour over glass into ice_
+
 - 25ml Italian Sweet Vermouth
 - 25ml Campari
 - 50ml Soda
@@ -31,11 +33,12 @@ Lemon Zest and orange slice
 
 -----------------
 
-**Apple Blossom Cocktail**      
+#### Apple Blossom Cocktail      
 
 Cocktail glass
 
 _Shake hard and fine strain_
+
 - 50ml Calvados
 - 50ml Sweet Vermouth
 
@@ -44,11 +47,12 @@ Apple fan
 
 -----------------
 
-**Aviation**
+#### Aviation
 
 Cocktail Glass
 
 _Shake hard, fine strain_
+
 - 50ml London dry gin
 - 25ml Lemon juice
 - 15ml Maraschino Liqueur
@@ -59,11 +63,12 @@ Lemon Zest
 
 -----------------
 
-**Bacardi Cocktail**
+#### Bacardi Cocktail
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 50ml Bacardi rum
 - 25ml Lime juice
 - 10ml Grenadine
@@ -73,11 +78,12 @@ None
 
 -----------------
 
-**Bellini**
+#### Bellini
 
 Sparkling Wine Glass
 
 _Build in glass_
+
 - 50ml white peach puree
 - Top with Prosecco
 
@@ -86,12 +92,13 @@ None
 
 -----------------
 
-**Between the sheets**     
-Created 1930s by Harry MacElhone, Harry’s New York Bar, Paris.
+#### Between the sheets    
+>Created 1930s by Harry MacElhone, Harry’s New York Bar, Paris.
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 25ml White Rum
 - 25ml Cognac
 - 25ml Cointreau
@@ -102,22 +109,24 @@ Lemon twist
 
 -----------------
 
-**Black Russian**
+#### Black Russian
 
 Rocks Glass
 
 _Build in glass_
+
 - 50ml Vodka
 - 25ml coffee liqueur
 
 
 -----------------
 
-**Black Velvet**
+#### Black Velvet
 
 Sparkling Wine Glass
 
 _Pour slowly and stir_
+
 - 100ml Guiness stout
 - Top with Champagne
 
@@ -126,11 +135,12 @@ None
 
 -----------------
 
-**Blood and Sand**
+#### Blood and Sand
 
 Cocktail Glass
 
 _Shake and fine strain_
+
 - 20ml Scotch whisky
 - 20ml Cherry Brandy
 - 20ml Sweet Vermouth
@@ -141,7 +151,7 @@ Orange Zest
 
 -----------------
 
-**Bloody Mary**
+#### Bloody Mary
 
 Red Snapper – replace vodka with gin
 Bloody Caesar – replace tomato juice with Clomato juice
@@ -149,6 +159,7 @@ Bloody Caesar – replace tomato juice with Clomato juice
 Collins Glass
 
 _Roll ingredients, strain into glass_
+
 - 50ml Vodka
 - 20ml Lemon Juice
 - Black Pepper
@@ -162,11 +173,12 @@ Salt/Pepper rim, celery stick
 
 -----------------
 
-**Blue Moon**
+#### Blue Moon
 
 Cocktail Glass
 
 _Shake and fine strain_
+
 - 50ml dry Gin
 - 25ml fresh Lemon juice
 - 20ml Creme Yvette or Creme de Violette
@@ -177,11 +189,12 @@ Raspberry
 
 -----------------
 
-**Boulevard**      
+#### Boulevard
 
 Cocktail Glass
 
 _Stir in mixing glass_
+
 - 75ml Rye Whiskey
 - 30ml Dry Vermouth
 - 15ml Grand Marnier
@@ -192,11 +205,12 @@ Orange twist & cherry
 
 -----------------
 
-**Bobby Burns**
+#### Bobby Burns
 
 Cocktail Glass      
 
 _Shake hard and fine strain_
+
 - 50ml Scotch Whisky
 - 25ml Sweet Vermouth
 - 10ml Benedictine D.O.M
@@ -206,11 +220,12 @@ Lemon Twist
 
 -----------------
 
-**Bramble**
+#### Bramble
 
 Rocks Glass
 
 _Build in glass, drizzle Crème de Mure_
+
 - 40ml London Dry Gin
 - 25ml Lemon juice
 - 10ml Gomme
@@ -221,11 +236,12 @@ Lemon slice and raspberry
 
 -----------------
 
-**Brandy Alexander**
+#### Brandy Alexander
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 25ml Brandy
 - 25ml Creme de Cacao
 - 25ml Cream
@@ -235,11 +251,12 @@ Grated nutmeg
 
 -----------------
 
-**Brandy Flip**      
+#### Brandy Flip   
 
 Collins Glass
 
 _Shake hard and fine strain_
+
 - 50ml Brandy
 - 20ml Sugar syrup
 - 10ml Cream
@@ -250,11 +267,12 @@ Grated nutmeg
 
 -----------------
 
-**Breakfast Martini**      
+#### Breakfast Martini    
 
 Cocktail Glass
 
 _Stir in mixing glass_
+
 - 50ml Gin
 - 12.5ml Triple Sec liqueur
 - 12.5ml Lemon juice
@@ -265,13 +283,14 @@ Orange twist
 
 -----------------
 
-**Bronx**
+#### Bronx
 
 Created 1906 by Johnny Solon, Waldolf-Astoria, NY.
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 50ml Dry Gin
 - 25ml Dry Vermouth
 - 25ml Sweet Vermouth
@@ -283,11 +302,12 @@ Orange twist
 
 -----------------
 
-**Brooklyn**      
+#### Brooklyn
 
 Cocktail Glass
 
 _Stir in mixing glass_
+
 - 75ml Bourbon
 - 10ml Maraschino liqueur
 - 15ml Dry Vermouth
@@ -299,11 +319,12 @@ Maraschino cherry
 
 -----------------
 
-**Caipirinha**
+#### Caipirinha
 
 Rocks Glass
 
 _Muddle in glass. Fill with crushed ice_
+
 - 50ml Cachaca (use Vodka for Caipiroska)
 - 4 Lime wedges
 - 15ml sugar syrup OR
@@ -314,11 +335,12 @@ Lime wedge
 
 -----------------
 
-**Cape Codder**
+#### Cape Codder
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Vodka
 - 10ml fresh Lime juice
 - Top with cranberry juice
@@ -328,11 +350,12 @@ Lime wedge
 
 -----------------
 
-**Champagne Cocktail**
+#### Champagne Cocktail
 
 Sparklong Wine Glass
 
 _Build in glass_
+
 - Sugar cube soaked with Angostura bitters
 - 25ml Cognac
 - Top with Champagne
@@ -342,11 +365,12 @@ Orange zest
 
 -----------------
 
-**Clover Club**
+#### Clover Club
 
 Cocktail Glass
 
 _Dry shake, wet shake, fine strain_
+
 - 50ml dry Gin
 - 25ml Lemon juice
 - 10ml Raspberry syrup
@@ -357,11 +381,12 @@ None
 
 -----------------
 
-**Cobbler**      
+#### Cobbler   
 
 Collins Glass
 
 _Shake hard and strain over crushed ice_
+
 - 40ml Brandy
 - 25ml Sugar syrup
 - 70ml Red wine
@@ -371,11 +396,12 @@ Mint sprig
 
 -----------------
 
-**Corpse Reviver #2**
+#### Corpse Reviver #2
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 25ml dry Gin
 - 25ml Triple sec
 - 25ml Dry Vermouth
@@ -387,11 +413,12 @@ Lemon zest
 
 -----------------
 
-**Cosmopolitan**
+#### Cosmopolitan
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 40ml Lemon Vodka (use Tequila for a Rude Cosmo)
 - 20ml Triple sec
 - 15ml Lime juice
@@ -403,11 +430,12 @@ Flamed Orange zest
 
 -----------------
 
-**Crusta**      
+#### Crusta    
 
 Collins Glass
 
 _Shake hard and strain_
+
 - 50ml Base Spirit
 - 12.5ml Lemon juice
 - 5ml Gomme
@@ -418,13 +446,14 @@ Crusted caster sugar rim and fruit band in top of glass
 
 -----------------
 
-**Cuba Libra**
+#### Cuba Libra
 
 Variation: Fidel Castro – replace Cola with Ginger Ale
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Cuban style rum
 - 15ml Lime juice
 - Top with Coca Cola
@@ -434,11 +463,12 @@ Lime wedge
 
 -----------------
 
-**Daiquiri**
+#### Daiquiri
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 50ml Rum
 - 25ml Lime juice
 - 15ml Sugar Syrup
@@ -447,11 +477,12 @@ None
 
 -----------------
 
-**Daisy**
+#### Daisy
 
 Collins Glass
 
 _Shake first ingredients, top with soda_
+
 - 50ml Base spirit (Vodka, gin etc)
 - 25ml Lemon juice
 - 10ml Grenadine syrup
@@ -461,11 +492,12 @@ Lime wedge
 
 -----------------
 
-**Dark n Stormy**
+#### Dark n Stormy
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Goslings Black seal Rum
 - 25ml Lime juice
 - Top with Ginger beer
@@ -475,11 +507,12 @@ Lime wedge
 
 -----------------
 
-**Diplomat**      
+#### Diplomat   
 
 Cocktail Glass
 
 _Stir in mixing glass_
+
 - 50ml Dry Vermouth
 - 25ml Sweet Vermouth
 - 5ml Maraschino liqueur
@@ -490,11 +523,12 @@ Orange Twist
 
 -----------------
 
-**East India**      
+#### East India   
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 75ml Cognac
 - 5ml Grand Marnier
 - 5ml Maraschino liqueur
@@ -506,11 +540,12 @@ Orange Twist
 
 -----------------
 
-**El Diablo**
+#### El Diablo
 
 Collins Glass
 
 _Shake first ingredients then top ginger beer_
+
 - 50ml Tequila
 - 25ml Lime juice
 - 20ml Creme de Cassis
@@ -521,11 +556,12 @@ Lime wedge
 
 -----------------
 
-**El Floridita no.1**
+#### El Floridita no.1
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 50ml Rum
 - 25ml Lime juice
 - 10ml gomme
@@ -535,11 +571,12 @@ None
 
 -----------------
 
-**El Presidente**
+#### El Presidente
 
 Cocktail Glass 
 
 _Shake hard and fine strain_
+
 - 50ml white Rum
 - 25ml Pineapple juice
 - 20ml Lime juice
@@ -550,11 +587,12 @@ Lime wedge
 
 -----------------
 
-**Espresso Martini**
+#### Espresso Martini
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 25ml Vodka
 - 25ml Coffee Liqueur
 - 25ml Chilled espresso
@@ -564,14 +602,14 @@ _Shake hard and fine strain_
 
 -----------------
 
-**Fish House Punch**      
-“There's a little place just out of town,  
-Where, if you go to lunch,  
-They'll make you forget your mother-in-law  
-With a drink called Fish-House Punch.”
-Possibly created 1794 in Philadelphia
+#### Fish House Punch  
+>There's a little place just out of town,  
+>Where, if you go to lunch,  
+>They'll make you forget your mother-in-law  
+>With a drink called Fish-House Punch. 
 
 _Shake hard and fine strain_
+
 - 25ml Brandy
 - 25ml Gold Rum
 - 20ml Peach liqueur
@@ -584,11 +622,12 @@ Grated nutmeg and lemon slice
 
 -----------------
 
-**Fix**      
+#### Fix   
 
 Collins Glass
 
 _Shake hard and strain_
+
 - 50ml Base spirit
 - 25ml Lemon juice
 - 25ml Sweet fruit juice
@@ -599,7 +638,7 @@ Use fruit from recipe
 
 -----------------
 
-**French 75**
+#### French 75
 
 Substitute gin with vodka for French 76
 Death in the Afternoon – replace gin with 10ml Absinthe
@@ -607,6 +646,7 @@ Death in the Afternoon – replace gin with 10ml Absinthe
 Sparkling Wine Glass
 
 _Shake first ingredients, top sparkling wine_
+
 - 35ml Gin
 - 15ml Lemon juice
 - 5ml gomme
@@ -617,11 +657,12 @@ Lemon zest
 
 -----------------
 
-**French Connection**
+#### French Connection
 
 Rocks Glass
 
 _Build in glass_
+
 - 35ml Cognac
 - 35ml Amaretto liqueur
 
@@ -629,11 +670,12 @@ None
 
 -----------------
 
-**French Martini**
+#### French Martini
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 40ml Vodka
 - 15ml Chambord liqueur
 - 40ml Pineapple juice
@@ -642,11 +684,12 @@ None
 
 -----------------
 
-**Gimlet**
+#### Gimlet
 
 Cocktail Glass
 
 _Stir in mixing glass_
+
 - 50ml Gin
 - 20ml Roses Lime cordial
 
@@ -655,11 +698,12 @@ Lime wedge
 
 -----------------
 
-**Gin Cockail**
+#### Gin Cockail
 
 Cocktail Glass
 
 _Stir in mixing glass_
+
 - 75ml Gin
 - 5ml Triple Sec
 - 5ml Gomme
@@ -670,11 +714,12 @@ Lemon Zest
 
 -----------------
 
-**Gin Rickey**
+#### Gin Rickey
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Gin
 - 25ml Lime juice
 - Top with soda
@@ -684,10 +729,14 @@ Lime wedge
 
 -----------------
 
-**Godfather**
+#### Godfather
+
+Rocks Glass
+
 Substitute whisky with vodka for Godmother
 
 _Build in glass_
+
 - 35ml Cognac
 - 35ml Scotch whisky
 
@@ -695,11 +744,12 @@ None
 
 -----------------
 
-**Grasshopper**
+#### Grasshopper
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 25ml White Creme de Cacao
 - 25ml Creme de Menthe
 - 25ml Cream
@@ -709,12 +759,13 @@ Shaved Chocolate
 
 -----------------
 
-**Hanky-Panky Martini**
-Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel.
+#### Hanky-Panky Martini
+>Created by Ada Coleman, first Bar Manager of American Bar, Savoy Hotel.
 
 Cocktail Glass
 
 _Stir in mixing glass_
+
 - 50ml Dry Gin
 - 50ml Sweet Vermouth
 - 5ml Fernet Branca
@@ -725,11 +776,12 @@ Orange twist
 
 -----------------
 
-**Harvard**      
+#### Harvard      
 
 Cocktail Glass
 
 _Stir in mixing glass_
+
 - 40ml Cognac
 - 50ml Sweet Vermouth
 - 2 dash Orange bitters (optional)
@@ -740,11 +792,12 @@ Lemon twist
 
 -----------------
 
-**Harvey Wallbanger**
+#### Harvey Wallbanger
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Vodka
 - 25ml Galliano liqueur
 - Top with Orange juice
@@ -754,11 +807,12 @@ Orange Slice
 
 -----------------
 
-**Hurricane**
+#### Hurricane
 
 Hurricane Glass/Collins Glass
 
 _Shake hard and strain_
+
 - 25ml Light Rum
 - 25ml Dark Rum
 - 25ml Orange Juice
@@ -772,11 +826,12 @@ Lime wedge and cherry
 
 -----------------
 
-**Japanese Slipper**
+#### Japanese Slipper
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 25ml Midori Melon liqueur
 - 25ml Cointreau liqueur
 - 25ml fresh Lemon juice
@@ -786,11 +841,12 @@ Melon slice
 
 -----------------
 
-**June Bug**
+#### June Bug
 
 Collins Glass
 
 _Shake hard and strain_
+
 - 25ml Vodka
 - 25ml fresh Lime juice
 - 15ml Midori Melon Liqueur
@@ -803,11 +859,12 @@ Lime wedge
 
 -----------------
 
-**Kamikaze**
+#### Kamikaze
 
 Cocktail Glass/Rocks Glass
 
 _Shake hard and fine strain_
+
 - 25ml Vodka
 - 25ml Cointreau liqueur
 - 25ml fresh Lime juice
@@ -817,11 +874,12 @@ Lime wedge
 
 -----------------
 
-**Kir Royale**
+#### Kir Royale
 
 Sparkling Wine Glass
 
 _Build in glass_
+
 - 10ml Crème de Cassis
 - Top with Champagne
 
@@ -829,11 +887,12 @@ None
 
 -----------------
 
-**The Last Word**
+#### The Last Word
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 25ml dry Gin
 - 25ml fresh green Chartreuse
 - 25ml Maraschio cherry liquer
@@ -844,11 +903,12 @@ Lime wedge
 
 -----------------
 
-**Lemon Drop**
+#### Lemon Drop
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 50ml lemon Vodka
 - 25ml fresh Lemon juice
 - 10ml gomme syrup
@@ -858,11 +918,12 @@ Lemon twist
 
 -----------------
 
-**Long Island Iced Tea**
+#### Long Island Iced Tea
 
 Collins/Sling Glass
 
-_Build in glass, or shake first ingredients and top Coke_
+_Build in glass, or shake first ingredients and top with Coke_
+
 - 12.5ml Vodka
 - 12.5ml Dry Gin
 - 12.5ml Light Rum
@@ -876,11 +937,12 @@ Lemon Wedge
 
 -----------------
 
-**Lynchburg Lemonade**
+#### Lynchburg Lemonade
 
 Collins Glass
 
 _Build in glass_
+
 - 40ml Jack Daniels
 - 20ml Triple Sec
 - 20ml fresh Lemon juice
@@ -891,12 +953,13 @@ Lemon wedge
 
 -----------------
 
-**Mai Tai**
-Created 1944 by Trader Vic
+#### Mai Tai
+>Created 1944 by Trader Vic
 
 Rocks Glass
 
 _Shake hard and strain over crushed ice_
+
 - 25ml Light Rum (Jamaican)
 - 25ml Dark Rum (Jamaican)
 - 25ml fresh Lime juice
@@ -908,12 +971,13 @@ Lime wedge and cherry
 
 -----------------
 
-**Manhattan**
+#### Manhattan
 Variation: Rob Roy – use Scotch whisky
 
 Cocktail/Rocks Glass
 
 _Stir in mixing glass and strain_
+
 - 50ml Rye or Bourbon Whiskey
 - 2 Dashes Angustora Bitters
 
@@ -932,11 +996,12 @@ Perfect: Orange twist
 
 -----------------
 
-**Margarita**
+#### Margarita
 
 Cocktail/Rocks Glass
 
 _Shake hard and fine strain_
+
 - 40ml Tequila
 - 25ml Triple Sec
 - 20ml fresh Lime juice
@@ -946,7 +1011,7 @@ Lime wedge
 
 -----------------
 
-**Martini (Dry)**
+#### Martini (Dry)
 Dry=Less vermouth, Wet= More vermouth
 Gibson – Pickled onion as garnish
 Kangeroo – Sub Vodka for gin
@@ -954,6 +1019,7 @@ Kangeroo – Sub Vodka for gin
 Cocktail Glass
 
 _Stir in mixing glass and strain_
+
 - 50ml dry Gin
 - 15ml Dry Vermouth
 - (Optional) Dash of Orange Bitters
@@ -963,11 +1029,12 @@ Lemon twist or olive
 
 -----------------
 
-**Mary Pickford**
+#### Mary Pickford
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 50ml white Rum
 - 25ml Pineapple juice
 - 5ml Maraschino liqueur
@@ -977,11 +1044,12 @@ None
 
 -----------------
 
-**Mint Julep**
+#### Mint Julep
 
 Collins Glass
 
 _Lightly muddle ingredients except Bourbon in mixing glass. Strain into glass half filled with crushed ice, add Bourbon, churn and refill with ice until full_
+
 - 50ml Bourbon
 - 10-12 fresh Mint leaves
 - 10ml gomme syrup
@@ -992,13 +1060,14 @@ Mint sprig
 
 -----------------
 
-**Mojito**
+#### Mojito
 
 Many bars use two bar spoons of white or brown sugar rather than sugar syrup.
 
 Collins Glass
 
 _Slap mint, add other ingredients, churn with crushed ice_
+
 - 50ml Cuban style Rum
 - 25ml fresh Lime juice
 - 15ml gomme syrup
@@ -1010,11 +1079,12 @@ Lime wedge and mint sprig
 
 -----------------
 
-**Moscow Mule**
+#### Moscow Mule
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Vodka
 - 25ml fresh Lime juice
 - Top with Ginger beer
@@ -1025,11 +1095,12 @@ Lime wedge
 
 -----------------
 
-**Negroni**
+#### Negroni
 
 Rocks Glass
 
 _Stir in mixing glass, strain_
+
 - 25ml Dry Gin
 - 25ml Sweet Vermouth
 - 25ml Campari
@@ -1039,11 +1110,12 @@ Orange twist or orange wedge
 
 -----------------
 
-**New Yorker**
+#### New Yorker
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 50ml Bourbon
 - 25ml Red wine
 - 12.5ml Lemon juice
@@ -1054,11 +1126,12 @@ Grated nutmeg
 
 -----------------
 
-**Nuclear Daiquiri**
+#### Nuclear Daiquiri
 
 Cocktail Glass
 
 _Shake hard and strain_
+
 - 25ml Overproof Rum
 - 20ml green Chartreuse
 - 25ml Lime juice
@@ -1069,7 +1142,7 @@ Lime wedge
 
 -----------------
 
-**Old Fashioned**
+#### Old Fashioned
 Call me old fashioned – sub Bourbon with Cognac.
 
 
@@ -1077,6 +1150,7 @@ Rocks Glass
 
 _Add ingredients slowly, stiring until ice melts and then adding more ice_
 _Stir in glass_
+
 - 50ml Bourbon or Rye
 - 5ml gomme syrup
 - 3 dashes Angustora bitters
@@ -1086,11 +1160,12 @@ Orange twist
 
 -----------------
 
-**Painkiller**
+#### Painkiller
 
 Collins Glass
 
 _Shake hard and strain_
+
 - 50ml Pussers Navy Rum
 - 75ml Pineapple juice
 - 25ml Orange Juice
@@ -1101,12 +1176,12 @@ Grated nutmeg
 
 -----------------
 
-**Paloma**      
-Spanish for ‘Dove’
+#### Paloma      
 
 Collins Glass
 
 _Shake first ingredients_
+
 - 50ml Tequila
 - 15ml Lime juice
 - 50ml grapefruit juice
@@ -1117,11 +1192,12 @@ Lime wedge, salt rim
 
 -----------------
 
-**Paradise**
+#### Paradise
 
 Cocktail Glass
 
 _Shake and fine strain_
+
 - 35ml Gin
 - 20ml Apricot Brandy
 - 15ml Orange juice
@@ -1131,11 +1207,12 @@ None
 
 -----------------
 
-**Pegu Club**
+#### Pegu Club
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 50ml dry Gin
 - 25ml Triple sec
 - 15ml fresh Lime juice
@@ -1146,11 +1223,12 @@ None
 
 -----------------
 
-**Pina Colada**
+#### Pina Colada
 
 Collins Glass
 
 _Shake and strain_
+
 - 25ml light Rum
 - 25ml Coconut rum
 - 10ml fresh lime juice
@@ -1163,11 +1241,12 @@ Lime wedge ad pineapple slice
 
 -----------------
 
-**Rum Swizzle**
+#### Rum Swizzle
 
 Collins Glass
 
 _Fill glass with crushed ice, add ingredients, stir hard with swizzle stick_
+
 - 50ml Rum
 - 25ml fresh Lime
 - 10ml gomme
@@ -1177,11 +1256,12 @@ Lime wedge and mint leaf
 
 -----------------
 
-**Russian Spring Punch**
+#### Russian Spring Punch
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Vodka
 - 25ml fresh Lemon juice
 - 10ml gomme syrup
@@ -1193,11 +1273,12 @@ Lemon wedge and raspberries
 
 -----------------
 
-**Rusty Nail**
+#### Rusty Nail
 
 Rocks Glass
 
 _Stir in glass_
+
 - 50ml Scotch whisky
 - 25ml Drambuie liqueur
 
@@ -1206,11 +1287,12 @@ Lemon twist
 
 -----------------
 
-**Sazerac**
+#### Sazerac
 
 Rocks Glass
 
 _Stir in mixing glass, strain into Absinthe rinsed glass (no ice)_
+
 - 60ml Rye whiskey or Cognac
 - 10ml gomme syrup
 - Dash Paychards Bitters
@@ -1220,11 +1302,12 @@ Lemon twist
 
 -----------------
 
-**Screaming Orgasm**
+#### Screaming Orgasm
 
 Collins Glass
 
 _Shake and strain_
+
 - 25ml Vodka
 - 15ml Baileys Irish Cream liqueur
 - 15ml Coffee liqueur
@@ -1236,11 +1319,12 @@ Orange Slice
 
 -----------------
 
-**Screwdriver**
+#### Screwdriver
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Vodka
 - Top with Orange juice
 
@@ -1249,11 +1333,12 @@ Orange slice
 
 -----------------
 
-**Sex on the beach**
+#### Sex on the beach
 
 Collins Glass
 
 _Shake and strain_
+
 - 25ml Vodka
 - 25ml Peach liqueur
 - 40ml Orange Juice
@@ -1264,11 +1349,12 @@ Orange slice
 
 -----------------
 
-**Sidecar**
+#### Sidecar
 
 Cocktail Glass
 
 _Shake hard and strain_
+
 - 50ml Cognac
 - 25ml Triple Sec
 - 20ml fresh Lemon juice
@@ -1278,11 +1364,12 @@ _Shake hard and strain_
 
 -----------------
 
-**Screwdriver**
+#### Screwdriver
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Vodka
 - Top with Orange juice
 
@@ -1291,11 +1378,12 @@ Orange slice
 
 -----------------
 
-**Singapore Sling**
+#### Singapore Sling
 
 Sling Glass/Collins Glass
 
 _Shake first ingredients, top with soda, drizzle Cherry Brandy on top_
+
 - 50ml dry Gin
 - 25ml Lemon juice
 - 10ml gomme syrup
@@ -1308,11 +1396,12 @@ Lemon slice and cherry
 
 -----------------
 
-**Tequila Sunrise**
+#### Tequila Sunrise
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Tequila
 - 50ml Orange Juice
 - 10ml Grenadine syrup
@@ -1322,11 +1411,12 @@ Lime wedge or orange slice
 
 -----------------
 
-**Tom Collins**
+#### Tom Collins
 
 Collins Glass
 
 _Build in glass_
+
 - 50ml Gin
 - 25ml fresh Lemon juice
 - 15ml Sugar syrup
@@ -1337,11 +1427,12 @@ Lemon slice
 
 -----------------
 
-**Tommys Margarita**
+#### Tommys Margarita
 
 Cocktail/Rocks Glass
 
 _Shake and fine strain_
+
 - 50ml Tequila
 - 25ml fresh Lime juice
 - 10ml Agave syrup
@@ -1351,11 +1442,12 @@ Lime wedge
 
 -----------------
 
-**Treacle**
+#### Treacle
 
 Rocks Glass
 
 _Stir in glass, float apple juice_
+
 - 50ml dark Rum
 - 5ml gomme
 - Dash Angostura bitters
@@ -1366,11 +1458,12 @@ Orange twist
 
 -----------------
 
-**Twinkle**
+#### Twinkle
 
 Sparkling Wine Glass
 
 _Build in glass_
+
 - 75ml Vodka
 - 20ml Elderflower liqueur
 - Top sparkling wine
@@ -1380,11 +1473,12 @@ Lemon twist
 
 -----------------
 
-**Vesper Martini**
+#### Vesper Martini
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 75ml Vodka
 - 25ml dry Gin
 - 15ml Lillet
@@ -1394,12 +1488,13 @@ Lemon twist
 
 -----------------
 
-**Whisk(e)y sour**
+#### Whisk(e)y Sour
 Can dry shake if using egg white for better texture/foam
 
 Coupette/Rocks Glass
 
 _Shake hard and fine strain_
+
 - 50ml Whiskey (usually American)
 - 25ml fresh Lemon juice
 - 10ml gomme syrup
@@ -1411,11 +1506,12 @@ Orange twist
 
 -----------------
 
-**White Lady**
+#### White Lady
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 40ml dry Gin
 - 25ml Triple sec
 - 20ml fresh Lemon juice
@@ -1426,12 +1522,13 @@ Lemon twist
 
 -----------------
 
-**White Martini**
+#### White Martini
 Recipe per Phil Wood of Roxy Bar and Screen, London
 
 Cocktail Glass
 
 _Shake hard and fine strain_
+
 - 25ml Dark Rum
 - 25ml Mozart White Chocolate Liqueur
 - 25ml Milk
@@ -1441,11 +1538,12 @@ Finely grated chocolate
 
 -----------------
 
-**White Russian**
+#### White Russian
 
 Rocks Glass
 
 _Build in glass_
+
 - 25ml Vodka
 - 25ml coffee liqueur (Kahula/Tia Maria)
 - 25ml milk/cream
@@ -1455,12 +1553,13 @@ _Build in glass_
 
 -----------------
 
-**Zombie**
+#### Zombie
 Some recipes add Overproof rum and Absinthe – very strong!
 
 Collins Glass
 
 _Shake hard and strain_
+
 - 25ml Light Rum
 - 25ml Gold Rum
 - 25ml Dark Rum
