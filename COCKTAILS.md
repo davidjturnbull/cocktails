@@ -18,6 +18,22 @@ Lemon slice and raspberry				<= Garnish
 
 -----------------
 
+#### Amaretto Sour
+
+Coupette Glass
+
+_Shake hard and fine strain_
+
+- 50ml Amaretto liqueur
+- 25ml Fresh Lemon Juice
+- 5ml Sugar Gomme
+- Optional - Egg white
+
+Lemon Zest
+
+
+-----------------
+
 #### Americano
 
 Rocks Glass
@@ -30,6 +46,19 @@ _Pour over glass into ice_
 
 Lemon Zest and orange slice
 
+
+-----------------
+
+#### Aperol Spritz      
+
+Rocks Glass
+
+_Build in glass_
+
+- 25ml Aperol
+- 75ml Prosecco/Sparkling Wine
+
+Orange Twist
 
 -----------------
 
@@ -89,6 +118,20 @@ _Build in glass_
 
 None
 
+-----------------
+
+#### Benton's Old Fashioned
+>Created 2008 by Don Lee, PDT New York.
+
+Old Fashioned Glass
+
+_Build in glass_
+
+- 50ml Bacon Washed Bourbon
+- 5ml Maple Syrup
+- Two Dashes Angostura Bitters
+
+Orange Twist
 
 -----------------
 
@@ -365,6 +408,23 @@ Orange zest
 
 -----------------
 
+#### Champs-Elysées
+
+Cocktail Glass
+
+_Shake hard and fine strain_
+
+- 40ml Cognac
+- 12.5ml Green Chartreuse
+- 12.5ml Fresh Lemon Juice
+- 5ml Simple Syrup
+- 2 Dashes Angostura Bitters
+
+Lemon zest
+
+
+-----------------
+
 #### Clover Club
 
 Cocktail Glass
@@ -392,6 +452,21 @@ _Shake hard and strain over crushed ice_
 - 70ml Red wine
 
 Mint sprig
+
+
+-----------------
+
+#### Corn & Oil   
+
+Old Fashioned Glass
+
+_Stir and strain into ice filled glass_
+
+- 50ml Gold Rum
+- 10ml Velvet Falernum
+- 2 Dashes Angostura Bitters
+
+Lime Slice
 
 
 -----------------
@@ -536,6 +611,22 @@ _Shake hard and fine strain_
 - 1 dash Angostura Bitters
 
 Orange Twist
+
+
+-----------------
+
+#### Earl Grey MarTEAni   
+
+Cocktail Glass
+
+_Dry Shake, wet-shake hard and fine strain_
+
+- 50ml Earl Grey Tea infused Gin
+- 25ml Fresh Lemon Juice
+- 10ml Sugar Syrup
+- 10ml Egg White
+
+Lemon Zest
 
 
 -----------------
@@ -714,6 +805,22 @@ Lemon Zest
 
 -----------------
 
+#### Gin Gin Mule
+
+Collins Glass
+
+_Muddle ginger then add and shake base ingredients. Top with Ginger Beer_
+
+- 50ml Gin
+- 15ml Fresh Lime Juice
+- 10ml Sugar Syrup
+- 2 thin slices root Ginger
+
+Lime Wedge
+
+
+-----------------
+
 #### Gin Rickey
 
 Collins Glass
@@ -807,6 +914,23 @@ Orange Slice
 
 -----------------
 
+#### Hemingway Special
+
+Cocktail Glass Glass
+
+_Build in glass_
+
+- 50ml Light Rum
+- 25ml Fresh Lime Juice
+- 10ml Maraschino liqueur
+- 10ml Grapefruit Juice
+- Optional: Simple Syrup to taste
+
+Orange Slice
+
+
+-----------------
+
 #### Hurricane
 
 Hurricane Glass/Collins Glass
@@ -822,6 +946,21 @@ _Shake hard and strain_
 - 10ml Passion fruit syrup
 
 Lime wedge and cherry
+
+
+-----------------
+
+#### Jack Rose
+
+Cocktail Glass
+
+_Shake hard and fine strain_
+
+- 50ml Calvados
+- 15ml Fresh Lemon Juice
+- 10ml Grenadine Syrup
+
+Lemon Wedge
 
 
 -----------------
@@ -893,10 +1032,10 @@ Cocktail Glass
 
 _Shake hard and fine strain_
 
-- 25ml dry Gin
-- 25ml fresh green Chartreuse
+- 25ml Dry Gin
+- 25ml Green Chartreuse
 - 25ml Maraschio cherry liquer
-- 25ml fresh Lime juice
+- 25ml Fresh Lime juice
 
 Lime wedge
 
@@ -1007,6 +1146,22 @@ _Shake hard and fine strain_
 - 20ml fresh Lime juice
 
 Lime wedge
+
+
+-----------------
+
+#### Martinez 
+
+Cocktail Glass
+
+_Stir in mixing glass and strain_
+
+- 50ml Old Tom Gin
+- 25ml Sweet Vermouth
+- 5ml Maraschino
+- Dash Angostura Bitters
+
+Lemon twist
 
 
 -----------------
@@ -1205,6 +1360,7 @@ _Shake and fine strain_
 
 None
 
+
 -----------------
 
 #### Pegu Club
@@ -1220,6 +1376,24 @@ _Shake hard and fine strain_
 - Dash Orange bitters
 
 None
+
+
+-----------------
+
+#### Penicillian
+
+Old Fashioned Glass
+
+_Shake hard and strain_
+
+- 50ml Scotch Whisky
+- 10ml Islay Whisky
+- 25ml fresh Lemon juice
+- 10ml Honey syrup
+- 5ml Ginger juice
+
+None
+
 
 -----------------
 
@@ -1237,6 +1411,39 @@ _Shake and strain_
 - 75ml Pineapple juice
 
 Lime wedge ad pineapple slice
+
+
+-----------------
+
+#### Pisco Sour
+
+Coupette
+
+_Dry Shake, wet shake and strain_
+
+- 50ml Pisco
+- 25ml Fresh Lemon Juice
+- 10ml Sugar Syrup
+- 10ml Egg White
+
+None
+
+
+-----------------
+
+#### Planters Punch
+
+Collins Glass
+
+_Shake, top with Soda_
+
+- 50ml Jamaican Rum
+- 25ml Fresh Lime Juice
+- 10ml Sugar Syrup
+- 3 Dashes Angostura Bitters
+- Top Soda
+
+Lime Wedge
 
 
 -----------------
@@ -1393,6 +1600,35 @@ _Shake first ingredients, top with soda, drizzle Cherry Brandy on top_
 
 Lemon slice and cherry
 
+-----------------
+
+#### Southside Cocktail
+
+Cocktail Glass
+
+_Shake hard and fine strain_
+
+- 50ml dry Gin
+- 25ml Lemon juice
+- 10ml Sugar Syrup
+- Small handful of Mint
+- (Optional) Dash Angustora bitters
+
+None
+
+-----------------
+
+#### St-Germain Cocktail
+
+Collins Glass
+
+_Build in glass_
+
+- 40ml St-Germain elderflower liqueur
+- 50ml Sauvignon Blanc Wine
+- Top Soda water
+
+Lime Slice
 
 -----------------
 
@@ -1484,6 +1720,22 @@ _Shake hard and fine strain_
 - 15ml Lillet
 
 Lemon twist
+
+-----------------
+
+#### Vieu Caree
+
+Old Fashioned Glass
+
+_Stir in glass_
+
+- 25ml Rye Whiskey
+- 25ml Cognac
+- 25ml Sweet Vermouth
+- 1 Dash Benedictine
+- 2 Dashes Angostura
+
+Orange twist
 
 
 -----------------

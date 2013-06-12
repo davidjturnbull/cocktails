@@ -2,6 +2,13 @@
 
 ## Bartender Style Recipe Specs
 
+### Update 11 June 2013
+
+Added some more cocktails:
+
+Amaretto Sour, Aperol Spritz, Benton's Old Fashioned, Champs-Elysées, Corn & Oil, Earl Grey MarTEAni, Gin Gin Mule, Hemingway Special, Jack Rose, Martinez, Penicillian, Pisco Sour, Planters Punch, Southside Cocktail, St-Germain Cocktail, Vieux Carre
+
+
 ### Update 28 Jan 2013
 
 96 Drinks now added and formatted to the list with (hopefully) correct glass types.. 
@@ -19,4 +26,4 @@ For more information about mixing methods, techniques, or ingredients I have a c
 #### David Turnbull
 @turnbull_dave
 
-[daveonthe.net] (http://daveonthe.net)
+[dturnbull.org] (http://dturnbull.org)
