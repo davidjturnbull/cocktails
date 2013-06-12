@@ -1526,19 +1526,7 @@ Orange Slice
 
 -----------------
 
-#### Screwdriver
 
-Collins Glass
-
-_Build in glass_
-
-- 50ml Vodka
-- Top with Orange juice
-
-Orange slice
-
-
------------------
 
 #### Sex on the beach
 
@@ -1571,19 +1559,6 @@ _Shake hard and strain_
 
 -----------------
 
-#### Screwdriver
-
-Collins Glass
-
-_Build in glass_
-
-- 50ml Vodka
-- Top with Orange juice
-
-Orange slice
-
-
------------------
 
 #### Singapore Sling
 
