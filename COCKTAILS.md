@@ -4,7 +4,7 @@
 
 **Bramble**		<= Drink Name
 
-Rocks Glass    						<= Glass Type
+Old Fashioned Glass    						<= Glass Type
 
 _Build in glass, drizzle Crème de Mure_  	<= Mix Method
 
@@ -36,7 +36,7 @@ Lemon Zest
 
 #### Americano
 
-Rocks Glass
+Old Fashioned Glass
 
 _Pour over glass into ice_
 
@@ -51,7 +51,7 @@ Lemon Zest and orange slice
 
 #### Aperol Spritz      
 
-Rocks Glass
+Old Fashioned Glass
 
 _Build in glass_
 
@@ -154,7 +154,7 @@ Lemon twist
 
 #### Black Russian
 
-Rocks Glass
+Old Fashioned Glass
 
 _Build in glass_
 
@@ -265,7 +265,7 @@ Lemon Twist
 
 #### Bramble
 
-Rocks Glass
+Old Fashioned Glass
 
 _Build in glass, drizzle Crème de Mure_
 
@@ -364,7 +364,7 @@ Maraschino cherry
 
 #### Caipirinha
 
-Rocks Glass
+Old Fashioned Glass
 
 _Muddle in glass. Fill with crushed ice_
 
@@ -395,7 +395,7 @@ Lime wedge
 
 #### Champagne Cocktail
 
-Sparklong Wine Glass
+Sparkling Wine Glass
 
 _Build in glass_
 
@@ -750,7 +750,7 @@ Lemon zest
 
 #### French Connection
 
-Rocks Glass
+Old Fashioned Glass
 
 _Build in glass_
 
@@ -838,7 +838,7 @@ Lime wedge
 
 #### Godfather
 
-Rocks Glass
+Old Fashioned Glass
 
 Substitute whisky with vodka for Godmother
 
@@ -1000,7 +1000,7 @@ Lime wedge
 
 #### Kamikaze
 
-Cocktail Glass/Rocks Glass
+Cocktail Glass/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
@@ -1095,7 +1095,7 @@ Lemon wedge
 #### Mai Tai
 >Created 1944 by Trader Vic
 
-Rocks Glass
+Old Fashioned Glass
 
 _Shake hard and strain over crushed ice_
 
@@ -1113,7 +1113,7 @@ Lime wedge and cherry
 #### Manhattan
 Variation: Rob Roy – use Scotch whisky
 
-Cocktail/Rocks Glass
+Cocktail/Old Fashioned Glass
 
 _Stir in mixing glass and strain_
 
@@ -1137,7 +1137,7 @@ Perfect: Orange twist
 
 #### Margarita
 
-Cocktail/Rocks Glass
+Cocktail/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
@@ -1252,7 +1252,7 @@ Lime wedge
 
 #### Negroni
 
-Rocks Glass
+Old Fashioned Glass
 
 _Stir in mixing glass, strain_
 
@@ -1301,7 +1301,7 @@ Lime wedge
 Call me old fashioned – sub Bourbon with Cognac.
 
 
-Rocks Glass
+Old Fashioned Glass
 
 _Add ingredients slowly, stiring until ice melts and then adding more ice_
 _Stir in glass_
@@ -1482,7 +1482,7 @@ Lemon wedge and raspberries
 
 #### Rusty Nail
 
-Rocks Glass
+Old Fashioned Glass
 
 _Stir in glass_
 
@@ -1496,7 +1496,7 @@ Lemon twist
 
 #### Sazerac
 
-Rocks Glass
+Old Fashioned Glass
 
 _Stir in mixing glass, strain into Absinthe rinsed glass (no ice)_
 
@@ -1665,7 +1665,7 @@ Lemon slice
 
 #### Tommys Margarita
 
-Cocktail/Rocks Glass
+Cocktail/Old Fashioned Glass
 
 _Shake and fine strain_
 
@@ -1680,7 +1680,7 @@ Lime wedge
 
 #### Treacle
 
-Rocks Glass
+Old Fashioned Glass
 
 _Stir in glass, float apple juice_
 
@@ -1723,7 +1723,7 @@ Lemon twist
 
 -----------------
 
-#### Vieu Caree
+#### Vieux Caree
 
 Old Fashioned Glass
 
@@ -1743,7 +1743,7 @@ Orange twist
 #### Whisk(e)y Sour
 Can dry shake if using egg white for better texture/foam
 
-Coupette/Rocks Glass
+Coupette/Old Fashioned Glass
 
 _Shake hard and fine strain_
 
@@ -1792,7 +1792,7 @@ Finely grated chocolate
 
 #### White Russian
 
-Rocks Glass
+Old Fashioned Glass
 
 _Build in glass_
 
