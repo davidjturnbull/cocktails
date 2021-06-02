@@ -24,6 +24,6 @@ I realise that different bars/bartenders have their own ways of making drinks th
 For more information about mixing methods, techniques, or ingredients I have a cocktail blog at [Make Cocktails at Home] (http://makecocktailsathome.com)
 
 #### David Turnbull
-@turnbull_dave
+@_davidturnbull
 
-[dturnbull.org] (http://dturnbull.org)
+[davidturnbull.co] (https://davidturnbull.co)
