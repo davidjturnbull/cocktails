@@ -21,9 +21,9 @@ Cocktails is a list of of some popular classic and modern classics cocktail reci
 
 I realise that different bars/bartenders have their own ways of making drinks that may differ from what I have used, however I’ve tried to give versions of the cocktails that I feel work well internationally  – recipes are a guide, not a book of law! Also, glassware is kept relatively simple (similar to what you would expect in a good home bar without needing to get too exotic).
  
-For more information about mixing methods, techniques, or ingredients I have a cocktail blog at [Make Cocktails at Home] (http://makecocktailsathome.com)
+For more information about mixing methods, techniques, or ingredients I have a cocktail blog at [Make Cocktails at Home](http://makecocktailsathome.com)
 
 #### David Turnbull
 @_davidturnbull
 
-[davidturnbull.co] (https://davidturnbull.co)
+[davidturnbull.co](https://davidturnbull.co)
